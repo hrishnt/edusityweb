@@ -11,7 +11,9 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.9.0",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage": "https://hrishnt.github.io/edusity"
+
   },
   "scripts": {
     "start": "react-scripts start",
